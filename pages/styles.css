@@ -83,7 +83,6 @@ h3 {
     margin-bottom: 10px;
 }
 
-/* Paragraph and list styles */
 p, ul, ol {
     line-height: 1.6;
     font-size: 1rem;
@@ -115,4 +114,14 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #f2f2f2;
+    color: #444;
+    font-size: 0.9rem;
+    position: relative;
+    bottom: -20px;
 }
