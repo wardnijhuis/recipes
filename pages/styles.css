@@ -1,0 +1,118 @@
+/* Universal reset and box-sizing */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Body styling */
+body {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    background-color: #fafafa;
+    display: block; /* Standard block display */
+    height: 100vh; /* Ensure body takes the full height */
+}
+
+/* Sidebar Styling */
+.sidebar {
+    width: 30vw; /* Set a consistent width in vw */
+    height: 100vh; /* Full height of the viewport */
+    padding: 20px;
+    background-color: #fff;
+    border-right: 1px solid #ddd;
+    position: fixed; /* Fix the sidebar to the left */
+    overflow-y: auto; /* Enable scrolling if content overflows */
+}
+
+/* Content Section */
+.content {
+    margin-left: 30vw; /* Align with the sidebar width */
+    padding: 20px 40px;
+    height: 100vh; /* Make sure the content section also takes full height */
+    overflow-y: auto; /* Allow content to scroll if necessary */
+}
+
+/* Header styles in sidebar */
+.sidebar h2, .sidebar h3 {
+    color: #00796b;
+    margin-bottom: 10px;
+}
+
+.sidebar h2 {
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
+.sidebar h3 {
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
+
+/* List styles */
+.sidebar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar ul li {
+    padding: 5px 0;
+    font-size: 0.95rem;
+    color: #555;
+}
+
+/* Heading styles */
+h1 {
+    color: #333;
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+h2 {
+    color: #555;
+    font-size: 1.8rem;
+    margin: 20px 0 10px;
+}
+
+h3 {
+    color: #666;
+    font-size: 1.4rem;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/* Paragraph and list styles */
+p, ul, ol {
+    line-height: 1.6;
+    font-size: 1rem;
+    color: #444;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    margin: 20px 0;
+}
+
+ul, ol {
+    padding-left: 20px;
+}
+
+ul li, ol li {
+    margin-bottom: 8px;
+}
+
+/* Link styles */
+a {
+    color: #00796b;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
