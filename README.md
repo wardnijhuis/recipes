@@ -22,7 +22,7 @@ You can visit the website [here](https://wardnijhuis.github.io/recipes/). From t
 
 Jollof Rice: [Zena's Kitchen](https://zenaskitchen.com/my-mums-jollof-rice/)\
 Koshary: [Food Dolls](https://www.fooddolls.com/koshary-recipe/)\
-Bobotie: [Getaway](https://www.getaway.co.za/food/recipes-food/traditional-south-african-bobotie-recipe/)\
+Bobotie: [Getaway](https://www.getaway.co.za/food/recipes-food/traditional-south-african-bobotie-recipe/)
 
 ## License
 
