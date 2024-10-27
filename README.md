@@ -12,7 +12,7 @@ In the future I would like to add more recipes to the website, whilst still keep
 
 ## Usage
 
-You can visit the website [here](https://wardnijhuis.github.io/recipes/).From the homepage the user can visit the recipes by clicking on the images or titles of the recipes.
+You can visit the website [here](https://wardnijhuis.github.io/recipes/). From the homepage the user can visit the recipes by clicking on the images or titles of the recipes.
 
 ![Home page of the website](./screenshots/homepage.png)
 
@@ -20,9 +20,9 @@ You can visit the website [here](https://wardnijhuis.github.io/recipes/).From th
 
 ## Credits
 
-Jollof Rice: [Zena's Kitchen](https://zenaskitchen.com/my-mums-jollof-rice/)
-Koshary: [Food Dolls](https://www.fooddolls.com/koshary-recipe/)
-Bobotie: [Getaway](https://www.getaway.co.za/food/recipes-food/traditional-south-african-bobotie-recipe/)
+Jollof Rice: [Zena's Kitchen](https://zenaskitchen.com/my-mums-jollof-rice/)\
+Koshary: [Food Dolls](https://www.fooddolls.com/koshary-recipe/)\
+Bobotie: [Getaway](https://www.getaway.co.za/food/recipes-food/traditional-south-african-bobotie-recipe/)\
 
 ## License
 
