@@ -26,4 +26,4 @@ Bobotie: [Getaway](https://www.getaway.co.za/food/recipes-food/traditional-south
 
 ## License
 
-[MIT](https://github.com/wardnijhuis/recipes/blob/main/LICENSE.md)
+[MIT](https://github.com/wardnijhuis/recipes/blob/main/LICENSE)
