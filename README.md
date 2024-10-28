@@ -6,7 +6,7 @@ A small webpage containing a homepage with links to the recipes and 3 recipes of
 
 The project is made using only vanilla HTML and CSS, due to the simplicity of the website. Flexbox is used to style both the main page and the recipe pages.
 
-During the project I struggeld with finding authentic recipes, as I do'nt know many people from these countries. I also had difficulty to make the width of the ingredients sidebar the same on every page, whilst using only one CSS file.
+During the project I struggeld with finding authentic recipes, as I don't know many people from these countries. I also had difficulty to make the width of the ingredients sidebar the same on every page, whilst using only one CSS file.
 
 In the future I would like to add more recipes to the website, whilst still keeping the layout consistent. I would also like to implement more advanced styles, such as animations and a blurred background image. I would also like to add more responsiveness to the website, especially on the recipe pages, as the homepage is already responsive due to the usage of Flexbox.
 
